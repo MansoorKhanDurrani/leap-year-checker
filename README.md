@@ -59,3 +59,12 @@ git push origin --delete branch-name	Delete a remote branch
 Enter a year: 2024
 2024 is a leap year!
 ```
+**##Here are some of the main challenges**
+
+Merge conflicts – Occur when two branches modify the same part of a file.
+
+Working on the wrong branch – Accidentally making changes or committing to main or dev instead of a feature branch.
+
+Push rejections – Unable to push because the remote branch contains newer commits.
+
+Accidental overwrites – Losing changes by resetting, checking out, or merging incorrectly.
