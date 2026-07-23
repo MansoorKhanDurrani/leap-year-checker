@@ -17,36 +17,37 @@ This program takes a year as input from the user and determines whether it is a 
 - Input validation (handles non-numeric and negative inputs gracefully)
 - Clear, documented function logic
 
-##Most Important Commands to Memorize
+**##Most Important Commands to Memorize**
 
-Command	Purpose
-git init	 Initialize a repository
+**Command	Purpose**
 
-git status	Check repository status
+git init:	 Initialize a repository
 
-git add .	Stage all changes
+git status:	Check repository status
 
-git commit -m "message"	Save changes
+git add .:	Stage all changes
 
-git branch	List local branches
+git commit -m "message":	Save changes
 
-git checkout branch-name	Switch branches
+git branch:	List local branches
 
-git checkout -b branch-name	Create and switch to a new branch
+git checkout branch-name:  	Switch branches
 
-git diff	Show unstaged changes
+git checkout -b branch-name:  	Create and switch to a new branch
 
-git log --oneline	View commit history
+git diff	: Show unstaged changes
 
-git remote -v	View remote repositories
+git log --oneline:	View commit history
 
-git push -u origin branch-name	Push a branch to GitHub
+git remote -v: 	View remote repositories
 
-git pull origin branch-name	Fetch and merge changes from GitHub
+git push -u origin branch-name:	Push a branch to GitHub
 
-git branch -d branch-name	Delete a local branch
+git pull origin branch-name:	Fetch and merge changes from GitHub
 
-git push origin --delete branch-name	Delete a remote branch
+git branch -d branch-name: 	Delete a local branch
+
+git push origin --delete branch-name:  	Delete a remote branch
 ```
 3. Run the script:
 ```bash
