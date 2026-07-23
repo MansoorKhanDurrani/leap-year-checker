@@ -18,8 +18,9 @@ This program takes a year as input from the user and determines whether it is a 
 - Clear, documented function logic
 
 ##Most Important Commands to Memorize
+
 Command	Purpose
-git init	Initialize a repository
+git init	 Initialize a repository
 
 git status	Check repository status
 
