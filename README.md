@@ -17,7 +17,7 @@ This program takes a year as input from the user and determines whether it is a 
 - Input validation — handles non-numeric and negative year inputs gracefully
   
 - Clean, well-documented function logic
-
+----------------------------------------------------------------------------------
 **- Most Important Commands to Memorize:**
   
 **Command	Purpose:**
@@ -49,7 +49,7 @@ git pull origin branch-name: 	Fetch and merge changes from GitHub
 git branch -d branch-name: 	Delete a local branch
 
 git push origin --delete branch-name: 	Delete a remote branch
-
+---------------------------------------------------------------------------------------
 **Here are some of the main challenges developers face when using Git:**
 
 1.Merge conflicts – Occur when two branches modify the same part of a file.
@@ -65,7 +65,7 @@ git push origin --delete branch-name: 	Delete a remote branch
 6.Large, unrelated commits – Combining multiple features or fixes into a single commit.
 
 7.Branch management issues – Forgetting to switch branches or creating branches from the wrong base.
-
+------------------------------------------------------------------------------------------------------
   ** Enter a year when prompted — the program will tell you whether it's a leap year.**
   
 ## 💡 Example
