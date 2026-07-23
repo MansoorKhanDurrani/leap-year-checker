@@ -50,7 +50,23 @@ git branch -d branch-name: 	Delete a local branch
 
 git push origin --delete branch-name: 	Delete a remote branch
 
-   Enter a year when prompted — the program will tell you whether it's a leap year.
+**Here are some of the main challenges developers face when using Git:**
+
+1.Merge conflicts – Occur when two branches modify the same part of a file.
+
+2.Working on the wrong branch – Accidentally making changes or committing to main or dev instead of a feature branch.
+
+3.Push rejections – Unable to push because the remote branch contains newer commits.
+
+4.Accidental overwrites – Losing changes by resetting, checking out, or merging incorrectly.
+
+5.Poor commit messages – Making project history difficult to understand and maintain.
+
+6.Large, unrelated commits – Combining multiple features or fixes into a single commit.
+
+7.Branch management issues – Forgetting to switch branches or creating branches from the wrong base.
+
+  ** Enter a year when prompted — the program will tell you whether it's a leap year.**
   
 ## 💡 Example
 
