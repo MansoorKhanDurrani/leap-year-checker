@@ -63,10 +63,16 @@ Enter a year: 2024
 ```
 **##Here are some of the main challenges**
 
-Merge conflicts – Occur when two branches modify the same part of a file.
+1.Merge conflicts – Occur when two branches modify the same part of a file.
 
-Working on the wrong branch – Accidentally making changes or committing to main or dev instead of a feature branch.
+2.Working on the wrong branch – Accidentally making changes or committing to main or dev instead of a feature branch.
 
-Push rejections – Unable to push because the remote branch contains newer commits.
+3.Push rejections – Unable to push because the remote branch contains newer commits.
 
-Accidental overwrites – Losing changes by resetting, checking out, or merging incorrectly.
+4.Accidental overwrites – Losing changes by resetting, checking out, or merging incorrectly.
+
+5.Branch management issues – Forgetting to switch branches or creating branches from the wrong base.
+
+6.Merge or rebase confusion – Choosing the wrong strategy or using it incorrectly.
+
+7.Resolving merge conflicts – Deciding how to combine conflicting changes without introducing bugs.
