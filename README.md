@@ -22,33 +22,32 @@ This program takes a year as input from the user and determines whether it is a 
   
 **Command	Purpose:**
 
-git init: 	Initialize a repository
+1.git init: 	Initialize a repository
 
-git status: 	Check repository status
+2.git status: 	Check repository status
 
-git add .	: Stage all changes
+3.git add .	: Stage all changes
 
-git commit -m "message": 	Save changes
+4.git commit -m "message": 	Save changes
 
-git branch: 	List local branches
+5.git branch: 	List local branches
 
-git checkout branch-name: 	Switch branches
+6.git checkout branch-name: 	Switch branches
 
-git checkout -b branch-name	: Create and switch to a new branch
+7.git checkout -b branch-name	: Create and switch to a new branch
 
-git diff	: Show unstaged changes
+8.git diff	: Show unstaged changes
 
-git log --oneline: 	View commit history
+9.git log --oneline: 	View commit history
 
-git remote -v: 	View remote repositories
+10.git remote -v: 	View remote repositories
 
-git push -u origin branch-name: 	Push a branch to GitHub
+11.git push -u origin branch-name: 	Push a branch to GitHub
 
-git pull origin branch-name: 	Fetch and merge changes from GitHub
+12.git pull origin branch-name: 	Fetch and merge changes from GitHub
 
-git branch -d branch-name: 	Delete a local branch
+13.git branch -d branch-name: 	Delete a local branch
 
-git push origin --delete branch-name: 	Delete a remote branch
 ---------------------------------------------------------------------------------------
 **Here are some of the main challenges developers face when using Git:**
 
@@ -64,7 +63,6 @@ git push origin --delete branch-name: 	Delete a remote branch
 
 6.Large, unrelated commits – Combining multiple features or fixes into a single commit.
 
-7.Branch management issues – Forgetting to switch branches or creating branches from the wrong base.
 ------------------------------------------------------------------------------------------------------
   ** Enter a year when prompted — the program will tell you whether it's a leap year.**
   
